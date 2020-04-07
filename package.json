@@ -1,0 +1,8 @@
+{
+  "name": "nodehub.io",
+  "version": "0.0.1",
+  "description": "package to make it easy to use nodehub.io api",
+  "main": "index.js",
+  "repository": "https://github.com/starsoccer/nodehub.io",
+  "license": "MIT"
+}
